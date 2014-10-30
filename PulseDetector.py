@@ -20,7 +20,7 @@ from matplotlib.ticker import *#MultipleLocator, FormatStrFormatter, LogLocator
 import sys
 import time
 import pyaudio
-import wave
+#import wave
 
 if sys.version_info[0] < 3:
     import Tkinter as Tk
